@@ -145,7 +145,7 @@
         "mongoose-sequence": "^5.3.1",
         "morgan": "^1.10.0",
         "multer": "^1.4.3",
-        "multer-s3": "^2.9.0",
+        "multer-s3": "^2.9.1",
         "node-adm": "^0.9.1",
         "node-cron": "^3.0.0",
         "node-gcm": "^1.0.4",
